@@ -1,0 +1,11 @@
+# To download the py packages
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook
+
+# Steps to follow after downloading the py modules/packages
+https://stackoverflow.com/questions/42147492/q-install-pyhook-with-pip-for-python-2-7-on-windows
+
+# Splash screen
+https://dzone.com/articles/wxpython-101-creating-a-splash-screen
+
+# pyautogui
+https://pyautogui.readthedocs.io/en/latest/mouse.html
