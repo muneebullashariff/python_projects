@@ -5,6 +5,7 @@ import logging
 import time
 
 from disable_mouse_keyboard import blockInput
+#from digital_clock import Timer
 
 ## Global Variables
 # Time minutes to milli-seconds
@@ -42,7 +43,17 @@ if __name__ == "__main__":
     app = wx.App(False)
     frame = MyFrame()
     app.MainLoop()
-   
+    
+    #MSHA # Timer Display
+    #MSHA minutes = 1
+    #MSHA seconds = minutes*60
+    #MSHA seconds = 10 # For testing
+    #MSHA 
+    #MSHA timer = Timer(0, 0, "red", 100, seconds)#), testaction)
+    #MSHA timer.start()
+    #MSHA 
+    #MSHA # Used so that the window doesn't get closed
+    #MSHA screen.mainloop()
 
     ### Delay between the block and unblock
     ##t0 = time.time()
